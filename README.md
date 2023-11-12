@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorongfire33)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorongfire33&show_icons=true&theme=dokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorongfire33)
