@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorongfire33&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorongfire33&show_icons=true&theme=gruvbox)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorongfire33)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chorongfire33&theme=gruvbox)
 
 <!--
 **chorongfire33/chorongfire33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
