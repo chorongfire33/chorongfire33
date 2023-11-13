@@ -1,4 +1,4 @@
-## 👐 I'm not just a programmer, I am a problem solver!👋
+👐 I'm not just a programmer, I am a problem solver!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorongfire33&show_icons=true&theme=dracula)
 
