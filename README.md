@@ -17,10 +17,8 @@
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=AmazonS3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)<br><br>
-
-### Connecting
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)<br><br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANBambi&show_icons=true&theme=dracula)
@@ -28,18 +26,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANBambi&theme=dracula)
 
+### 📞 Connecting 📞 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MinYoungLee-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minyoung-lee-57838b290/)<br>
+![Gmail](https://img.shields.io/badge/Gmail-choyeon03@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)<br>
+[![Naver](https://img.shields.io/badge/NaverBlog-AN_Bambi-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/lovedtm_905/)
+
 </div>
-<!--
-**chorongfire33/chorongfire33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
