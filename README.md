@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19,27&height=300&section=header&text=Backend%20Developer%20_%20ANBambi%20-%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19,27&height=300&section=header&text=Backend%20Developer%20_%20ANBambi&fontSize=60)
 
 <div align=center>👐 Hi, Hello! I'm Bambi!👋<br><br>
 📍 Backend developer passionate about characters and animations!✨🐿️ <br><br>
