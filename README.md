@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-3776AB?style=flat&logo=Python&logoColor=white)<br>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/AmazonS3-569A31?style=flat&logo=AmazonS3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
