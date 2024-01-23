@@ -29,7 +29,7 @@
 ### 📞 Connecting 📞 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MinYoungLee-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minyoung-lee-57838b290/)<br>
-![Gmail](https://img.shields.io/badge/Gmail-choyeon03@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-choyeon03@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:choyeon03@gmail.com)<br>
 [![Naver](https://img.shields.io/badge/NaverBlog-AN_Bambi-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/lovedtm_905/)
 
 </div>
