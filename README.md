@@ -4,7 +4,7 @@
 📍 Backend developer passionate about characters and animations!✨🐿️ <br><br>
 📍 Eager to explore new languages and frameworks.<br><br>
 📍 Aspiring to be a 💡 collaborative problem solver 💡<br><br>
-🍹 Cherry coke enthusiast!
+🍹 Cherry coke enthusiast!<br>
 
 ### 🛠️ TECH STACK 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANBambi&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANBambi&show_icons=true&theme=dracula)<br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANBambi&theme=dracula)
