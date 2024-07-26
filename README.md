@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19,27&height=300&section=header&text=ANBambi%20_%20MinYoungLee&fontSize=60)
 
-<div align=center>👐 Hi, Hello! I'm Bambi!👋<br><br>
+<div align=center>👐 Hi, Hello! I'm minyoung!👋<br><br>
 📍 Backend developer passionate about characters and animations!✨🐿️ <br><br>
 📍 Eager to explore new languages and frameworks.<br><br>
 📍 Aspiring to be a 💡 collaborative problem solver 💡<br><br>
@@ -22,10 +22,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANBambi&show_icons=true&theme=dracula)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung0303&show_icons=true&theme=dracula)<br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANBambi&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyoung0303&theme=dracula)
 
 ### 📞 Connecting 📞 
 
